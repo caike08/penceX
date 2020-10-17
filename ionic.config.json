@@ -1,0 +1,7 @@
+{
+  "name": "penceX",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
